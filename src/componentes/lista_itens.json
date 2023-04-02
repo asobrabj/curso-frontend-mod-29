@@ -1,0 +1,49 @@
+{ 
+    "lista_itens": [
+        
+            {
+                "cod": "01",
+                "desc": "Feijão",
+                "quant": "2",
+                "medida": "Kg",
+                "preco": "11.40"
+            }, 
+            {
+                "cod": "02",
+                "desc": "Arroz",
+                "quant": "3",
+                "medida": "Kg",
+                "preco": "5.75"
+            }, 
+            {
+                "cod": "03",
+                "desc": "Açúcar",
+                "quant": "6",
+                "medida": "Kg",
+                "preco": "3.75"
+            },
+            {
+                "cod": "04",
+                "desc": "Carne",
+                "quant": "4",
+                "medida": "Kg",
+                "preco": "37.00"
+            },
+            {
+                "cod": "05",
+                "desc": "Farinha",
+                "quant": "3",
+                "medida": "Kg",
+                "preco": "4.80"
+            },
+            {
+                "cod": "06",
+                "desc": "Peixe",
+                "quant": "5",
+                "medida": "Kg",
+                "preco": "17.5"
+            }          
+        
+    ]  
+ 
+}

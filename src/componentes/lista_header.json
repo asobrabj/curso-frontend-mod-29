@@ -1,0 +1,12 @@
+{
+    "cabecalho": [
+      {
+        "cod": "#",
+        "desc": "Descrição",
+        "quant": "Quant.",
+        "medida": "Medida",
+        "preco": "Preço",
+        "subtotal":"SubTotal R$"
+      }
+    ]
+  }
